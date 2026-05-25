@@ -1,2 +1,2 @@
-# SCAI-for-HyperCD
-SCAI for Unsupervised HyperCD
+# SDDM-for-HyperCD
+SDDM for Unsupervised HyperCD
